@@ -14,7 +14,7 @@ const DisplayPies = (props) =>{
                             <td>{pie.crust}</td>
                             <td>{pie.timeToBake}</td>
                             <td>{pie.servings}</td>
-                            <td>{pie.rating}</td>
+                            <td>{pie.ratings}</td>
                         </tr>
                     )
                 })

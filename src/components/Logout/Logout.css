@@ -1,3 +1,7 @@
 #logout{
     height: 75px;
 }
+
+#logout{
+    cursor: pointer;
+}
